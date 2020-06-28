@@ -1,0 +1,27 @@
+
+body{width: 100%;}
+
+main .col{background: royalblue;}
+main .row{background: darkblue; opacity: 95%;}
+
+#Logo{background-color: navy; opacity: 80%;}
+#Caja-1{background-color: navy; opacity: 90%;}
+#Portada{background: navy; opacity: 100%;}
+#P-Cart{background: darkblue; opacity: 90%;}
+
+#L-Blanca{color: white;}
+#F-Blanco{background: white;}
+
+footer .row{background: darkblue; opacity: 95%;}
+#F-Gris{background-color: dimgray;}
+#F-Gris1{background-color: dimgray;}
+
+#Fo-Azul{border:0; border-left: 1px; border-style: dashed; border-color: darkgray;}
+#F-Gris1{border:0; border-left: 1px; border-style: dashed; border-color: darkgray;}
+#F-Vacio{background: none;}
+
+#Fondos{background-image: url(Fondo/Actualidad.jpg);}
+
+#Formulario{background-color: darkgrey; color: white; opacity: 100%; border-radius: 5px; border: 1px solid;}
+#BoG{background-color: navy; color: white; opacity: 100%; border-radius: 5px; border: 1px solid;}
+#Botones{background-color: darkgrey; color: white; opacity: 100%; border-radius: 5px; border: 1px solid;}
